@@ -11,11 +11,11 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* #### ¿Que tanto han aumentado la solicitudes de conseciones mineras?
 
-* ...
+* #### ¿Cuales de estas estan en los limites de areas protegidas?
 
-* ...
+* #### ¿Que tipos de concesiones son las mas solicitadas?
 
 * ...
 
